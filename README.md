@@ -2,6 +2,18 @@
 
 A powerful AI-driven text-to-image generation tool built with Gradio and Hugging Face Diffusers. This application provides an intuitive web interface for creating stunning images from text descriptions using state-of-the-art diffusion models.
 
+### Hugging Face Spaces link 
+https://huggingface.co/spaces/sudeshna5/Image_Generator_AI
+### Google Colab link
+https://colab.research.google.com/drive/1rfs0A4CSyX-P_NDfxfm_lL-kyQYEZ0B8?usp=drive_link
+
+##### using stable diffuser model
+<img width="1893" height="720" alt="image" src="https://github.com/user-attachments/assets/2879a74b-07e8-403f-b884-99f42586b2cd" />
+
+##### using dreamlike model
+<img width="1856" height="868" alt="image" src="https://github.com/user-attachments/assets/85d63427-9bc3-4486-9614-1fc12739f1c1" />
+
+
 ## Features
 
 - **Easy-to-use web interface** powered by Gradio
@@ -230,4 +242,5 @@ If you encounter any issues or have questions:
 ### Contact & Contributions
 
 #### Email: sudeshnadey1000@gmail.com
+
 

@@ -30,7 +30,7 @@ Simply enter a text prompt describing what you want to create, adjust settings i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-text-to-image-generator.git
+   git clone https://github.com/sudeshna999/Text-to-Image-Generator.git
    cd ai-text-to-image-generator
    ```
 
@@ -228,4 +228,5 @@ If you encounter any issues or have questions:
 ## Author
 ### Sudeshna Dey
 ### Contact & Contributions
+
 #### Email: sudeshnadey1000@gmail.com
